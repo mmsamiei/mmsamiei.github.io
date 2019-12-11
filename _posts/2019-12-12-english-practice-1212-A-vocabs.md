@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "English practice, 1212 A words"
-categories: [ english practice ]
+categories: [english, english practice ]
 image: assets/images/16.jpg
 ---
 
